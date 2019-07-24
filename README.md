@@ -29,5 +29,13 @@
  Busan and Jeju island.For places of interest, we have the Namsam Tower,Gwangjang market,Taejon Dae,Everland and
  Eco theme park.
 
- 
+## AIMS
+Team discovery hopes to sucessfully finish this project to  provide detailed  needs and wants to satisfy tourists to help 
+experience an amazing vacation.
 
+## TECHNOLOGIES
+Team discovery used Geany as our text editor , boostrap for some css files and google for our images and referred to 
+ other previous sites to know the layout of how our project should look like. 
+
+ Team discovery is now adding finishing touches to a not so complete website but we hope to come out with an amazing 
+project to help our customers enjoy an experience.
