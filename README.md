@@ -2,10 +2,10 @@
 
 # Project members
 
- Agbagba Phoebe Crystal
- Ohimeh - Buernor Markline
- Agbomadzi Victoria
- Nkrumah Donkoh Eric
+ ## Agbagba Phoebe Crystal
+ ## Ohimeh - Buernor Markline
+ ## Agbomadzi Victoria
+ ## Nkrumah Donkoh Eric
 
  Discovery is a Travel and Tour website for particular countries ie.(Ghana, France, USA and South Korea)
  This website is to help Foreigners and the Locals of these countries find their way around the specified 
