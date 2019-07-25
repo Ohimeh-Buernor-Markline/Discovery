@@ -34,7 +34,7 @@ Team discovery hopes to sucessfully finish this project to  provide detailed  ne
 experience an amazing vacation.
 
 ## TECHNOLOGIES
-Team discovery used Geany as our text editor , boostrap for some css files and google for our images and referred to 
+Team discovery used Geany as our text editor , Thorny for the flask, boostrap for some css files and google for our images and referred to 
  other previous sites to know the layout of how our project should look like. 
 
  Team discovery is now adding finishing touches to a not so complete website but we hope to come out with an amazing 
